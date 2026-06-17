@@ -39,7 +39,7 @@ Os dados são gerados automaticamente através de Python utilizando a biblioteca
 - Data Warehouse
 - Modelagem Dimensional
 - ETL
-- Power BI (opcional)
+
 
 ---
 
